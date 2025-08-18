@@ -95,7 +95,7 @@ export default function LoginPage() {
                             架构文档
                         </Typography.Link>
                         <Typography.Link
-                            href="https://github.com/MakeCodingGreatAgain88/next-js-admin"
+                            href="https://github.com/MakeCodingGreatAgain88/nextjs-admin"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
