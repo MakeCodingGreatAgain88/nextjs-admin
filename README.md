@@ -1,6 +1,8 @@
 # NextJs 用户管理系统
 
 这是一个基于 Next.js 和 Cloudflare 的用户管理系统，采用 CMS 架构设计。
+- [线上部署地址](https://nextjs.uuuui.com)
+- [架构文档](https://freezing-shock-fea.notion.site/24fa16bc331a80858079dbbb0c34be8c)
 
 ## 功能特性
 
